@@ -121,6 +121,8 @@
 
 .accordion .content-container.active .answer {
   height: auto;
+  text-align: justify;
+  padding: 20px;
 }
 
 .accordion .content-container.active .question {
